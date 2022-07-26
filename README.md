@@ -35,7 +35,4 @@ Here are some ideas to get you started:
 </p>
 
 
-
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
-# 💪Skills
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h01037466071)](https://solved.ac/h01037466071/)
