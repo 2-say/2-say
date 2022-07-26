@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h01037466071)](https://solved.ac/h01037466071/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h01037466071)](https://solved.ac/h01037466071/)">
 </p>
 
