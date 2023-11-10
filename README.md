@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕%20%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20sehee's%20GitHub!&descAlignY=60&descAlign=62"/></div>
 
 <h3 align="center">💻 My Github Stats 💻</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sehee&show_icons=true&count_private=true&hide=issues"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=2-say&show_icons=true&count_private=true&hide=issues"></p>
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
 <p align="center"><a href="https://2say.tistory.com"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
