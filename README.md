@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-<img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h01037466071)](https://solved.ac/h01037466071/)"/>
+<img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_say)](https://solved.ac/2_say/)"/>
 </p>
 
