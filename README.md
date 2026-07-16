@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">💻 My Github Stats 💻</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=2-say&show_icons=true&count_private=true&hide=issues"></p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/2-say/2-say/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/2-say/2-say/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
 <p align="center"><a href="https://2say.tistory.com"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
