@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1>Hi, I'm Sehee Lee 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=39D353&multiline=true&repeat=true&width=560&height=130&lines=%24+whoami;%3E+Sehee+Lee%2C+Backend+Developer;%24+cat+motto.txt;%3E+Write+code+that+makes+work+easier." alt="$ whoami > Sehee Lee, Backend Developer"/>
 
-<p><b>Backend Developer</b> · Java / Spring · C# / .NET</p>
 
 <a href="https://2say.tistory.com"><img src="https://img.shields.io/badge/Blog-607078?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://2say-resume.oopy.io/til"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=notion&logoColor=white"/></a>
@@ -13,8 +12,6 @@
 <br/>
 
 ## 👋 About Me
-
-> 업무에 필요한 게 '삽'이라면, '포크레인'을 만들어 주는 개발자가 되고 싶습니다.
 
 - ⚙️ Java·Spring 백엔드를 기반으로, 현재는 C#·.NET 실무까지 경험의 폭을 넓히고 있습니다.
 - 🧹 **깨끗한 코드를 지향합니다.** SonarQube로 코드 품질을 관리하며 프로젝트의 Code Issue 100개를 제거했습니다.
