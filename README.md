@@ -16,5 +16,6 @@
 <img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_say)](https://solved.ac/2_say/)"/>
 </p>
 
-
+<p align="center"> 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_say)](https://solved.ac/2_say)
+</p>
